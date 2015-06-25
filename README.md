@@ -12,4 +12,4 @@ To run the tests:
     $ python hmac_drbg_tests.py 
     Passed all 224 tests.
 
-**See also**: [go-drbg](https://github.com/davidlazar/go-drbg).
+**See also**: [go-crypto](https://github.com/davidlazar/go-crypto).
